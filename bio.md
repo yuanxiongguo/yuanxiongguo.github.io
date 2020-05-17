@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+#title: Bio
+subtitle: Bio
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. He received his Ph.D. degree in electrical and computer engineering from the University of Florida in 2014, M.S. degree in electrical and computer engineering from the University of Florida in 2012, and B.Eng. degree in electronics and information engineering from Huazhong University of Science and Technology in 2009. His current research focuses on data analytics, security and privacy with applications to Internet of things and edge computing. He received the 2017 Visiting Faculty Research Program Award from the Air Force Research Laboratory. He is the recipient of the Best Paper Award in IEEE Global Communications Conference (GLOBECOM) 2011 and the IEEE INFOCOM Distinguished TPC Member Award in 2016 and 2017. He is an Editor of the IEEE Transactions on Vehicular Technology and IEEE Senior Member.
