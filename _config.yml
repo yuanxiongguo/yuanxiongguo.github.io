@@ -12,12 +12,12 @@ author: Yuanxiong Guo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Bio: "bio"
-  Publications: "publications"
-  Group: "group" 
-  Teaching: "teaching"
-  Professional Services: "services"
-  Outreach: "outreach"
+  Bio: "bio/"
+  Publications: "publications/"
+  Group: "group/" 
+  Teaching: "teaching/"
+  Professional Services: "services/"
+  Outreach: "outreach/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
