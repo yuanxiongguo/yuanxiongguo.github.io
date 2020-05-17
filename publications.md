@@ -94,110 +94,90 @@ title: Publications
 R. Hu, Y. Guo, M. Pan, and Y. Gong  
 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9-13 December 2019.
 
-1. Backscatter-Aided Hybrid Data Offloading for Wireless Powered Edge Sensor Networks
-Y. Zou, J. Xu, S. Gong, Y. Guo, D. Niyato, and W. Cheng
+1. Backscatter-Aided Hybrid Data Offloading for Wireless Powered Edge Sensor Networks  
+Y. Zou, J. Xu, S. Gong, Y. Guo, D. Niyato, and W. Cheng  
 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9-13 December 2019.
 
-1. Data-Driven Caching with Users' Local Differential Privacy in Information-Centric Networks
-X. Zhang, J. Wang, H. Li, Y. Guo, Q. Pei, P. Li, and M. Pan
+1. Data-Driven Caching with Users' Local Differential Privacy in Information-Centric Networks  
+X. Zhang, J. Wang, H. Li, Y. Guo, Q. Pei, P. Li, and M. Pan  
 IEEE Global Communication Conference (GLOBECOM), Abu Dhabi, UAE, December 9-13, 2018.
 
-1. Multi-Stage Robust Energy Management for Sustainable Datacenters with Thermal Storage
-Z. Yu and Y. Guo
-51th Annual Frontiers of Power Conference, Stillwater, OK, October 29-30, 2018.
-
-1. Practical Collaborative Learning for Crowdsensing in the Internet of Things with Differential Privacy
-Y. Guo and Y. Gong
+1. Practical Collaborative Learning for Crowdsensing in the Internet of Things with Differential Privacy  
+Y. Guo and Y. Gong  
 IEEE Conference on Communications and Network Security (CNS), Beijing, China, May 30-June 1, 2018.
 
-1. A Stochastic Game Approach to Cyber-Physical Security with Applications to Smart Grid
-Y. Guo, Y. Gong, L. Njilla, and C. A. Kamhoua
+1. A Stochastic Game Approach to Cyber-Physical Security with Applications to Smart Grid  
+Y. Guo, Y. Gong, L. Njilla, and C. A. Kamhoua  
 The Fourth International Workshop on Security and Privacy in Big Data (BigSecurity), Honolulu, HI, April 15-19, 2018.
 
-1. Impacts of Time Delay and False Data Injection Attacks on Power System Control Loops
-D. Poosarla and Y. Guo
-50th Annual Frontiers of Power Conferences, Stillwater, OK, October 30-31, 2017.
-
-1. Data-Driven Chance-Constrained Stochastic Unit Commitment Under Wind Power Uncertainty
-A. Bagheri, C. Zhao, and Y. Guo
+1. Data-Driven Chance-Constrained Stochastic Unit Commitment Under Wind Power Uncertainty  
+A. Bagheri, C. Zhao, and Y. Guo  
 IEEE PES General Meeting, Chicago, IL, July 16-20, 2017.
 
-1. Coalitional Datacenter Energy Cost Optimization in Two-Settlement Electricity Markets
-Z. Yu, Y. Guo, and M. Pan
+1. Coalitional Datacenter Energy Cost Optimization in Two-Settlement Electricity Markets  
+Z. Yu, Y. Guo, and M. Pan  
 ACM International Conference on Future Energy Systems (ACM e-Energy), Hong Kong, May 17-19, 2017.
 
-1. A Nash Bargaining Approach to Emergency Demand Response in Colocation Data Centers
-L. Niu, Y. Guo, H. Li, and M. Pan
+1. A Nash Bargaining Approach to Emergency Demand Response in Colocation Data Centers  
+L. Niu, Y. Guo, H. Li, and M. Pan  
 IEEE Global Communication Conference (GLOBECOM), Washington, D.C., December 4-8, 2016.
 
-1. Voltage Regulation and Loss Minimization in Distribution Network with Renewable Generation using Smart Inverters
-D. Poosarla and Y. Guo
-49th Annual Frontiers of Power Conference, Stillwater, OK, October 31- November 1, 2016.
-
-1. Dynamic Matching Based Distributed Spectrum Trading in Multi-Radio Multi-Channel CRNs
-J. Wang, W. Ding, Y. Guo, C. Zhang, M. Pan and J. Song
+1. Dynamic Matching Based Distributed Spectrum Trading in Multi-Radio Multi-Channel CRNs  
+J. Wang, W. Ding, Y. Guo, C. Zhang, M. Pan and J. Song  
 IEEE Global Communication Conference (GLOBECOM), Washington, D.C., December 4-8, 2016.
 
-1. Distributed Spectrum Trading via Dynamic Matching with Evolving Preferences
-J. Wang, Y. Long, J. Wang, S. M. Errapotu, Y. Guo and M. Pan
+1. Distributed Spectrum Trading via Dynamic Matching with Evolving Preferences  
+J. Wang, Y. Long, J. Wang, S. M. Errapotu, Y. Guo and M. Pan  
 IEEE/CIC International Conference on Communications in China (ICCC), Chengdu, China, July 27-29, 2016.
 
-1. Robust Optimization Based Bidding Strategy for Virtual Power Plants in Electricity Markets
-Z. Liang and Y. Guo
+1. Robust Optimization Based Bidding Strategy for Virtual Power Plants in Electricity Markets  
+Z. Liang and Y. Guo  
 IEEE PES General Meeting, Boston, MA, July 17-21, 2016.
 
-1. Enabling Reliable Data Center Demand Response via Aggregation
-L. Niu and Y. Guo
+1. Enabling Reliable Data Center Demand Response via Aggregation  
+L. Niu and Y. Guo  
 ACM International Conference on Future Energy Systems (ACM e-Energy), Waterloo, Canada, June 21-24, 2016.
 
-1. Privacy-Preserving Collaborative Learning for Mobile Health Monitoring
-Y. Gong, Y. Fang, and Y. Guo
+1. Privacy-Preserving Collaborative Learning for Mobile Health Monitoring  
+Y. Gong, Y. Fang, and Y. Guo  
 IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 6-10, 2015.
 
-1. Coordinated Energy Management for Colocation Data Centers in Smart Grids
-Y. Guo and M. Pan
+1. Coordinated Energy Management for Colocation Data Centers in Smart Grids  
+Y. Guo and M. Pan  
 IEEE International Conference on Smart Grid Communications (SmartGridComm), Miami, FL, November 2-5, 2015.
 
-1. Optimal Energy Management for Microgrids with Cogeneration and Renewable Energy Sources
-Z. Liang and Y. Guo
+1. Optimal Energy Management for Microgrids with Cogeneration and Renewable Energy Sources  
+Z. Liang and Y. Guo  
 IEEE International Conference on Smart Grid Communications (SmartGridComm), Miami, FL, November 2-5, 2015.
 
-1. Smart Charging and Parking of Plug-in Hybrid Electric Vehicles in Microgrids Considering Renewable Energy Sources
-Z. Liang and Y. Guo
-48th Annual Frontiers of Power Conference, Stillwater, OK, October 26-27, 2015.
-
-1. Privacy-Preserving Machine Learning Algorithms for Big Data Systems
-K. Xu, H. Yue, L. Guo, Y. Guo, and Y. Fang
+1. Privacy-Preserving Machine Learning Algorithms for Big Data Systems  
+K. Xu, H. Yue, L. Guo, Y. Guo, and Y. Fang  
 IEEE International Conference on Distributed Computing Systems (ICDCS), Columbus, Ohio, June 29 - July 2, 2015.
 
-1. A Privacy-Preserving Task Recommendation Framework for Mobile Crowdsourcing
-Y. Gong, Y. Guo, and Y. Fang
+1. A Privacy-Preserving Task Recommendation Framework for Mobile Crowdsourcing  
+Y. Gong, Y. Guo, and Y. Fang  
 IEEE Global Communications Conference (GLOBECOM), Austin, TX, December 8-12, 2014.
 
-1. Control of Photo Sharing over Online Social Networks
-K. Xu, Y. Guo, L. Guo, and Y. Fang
+1. Control of Photo Sharing over Online Social Networks  
+K. Xu, Y. Guo, L. Guo, and Y. Fang  
 IEEE Global Communications Conference (GLOBECOM), Austin, TX, December 8-12, 2014.
 
-1. A Robust Optimization Approach to Microgrid Energy Management with Renewables
-Y. Guo
-47th Annual Frontiers of Power Conference, Stillwater, OK, October 27-28, 2014.
-
-1. Stochastic Minimization of Imbalance Cost for a Virtual Power Plant in Electricity Markets
-Y. Guo, Y. Gong, Y. Fang, and P. P. Khargonekar
+1. Stochastic Minimization of Imbalance Cost for a Virtual Power Plant in Electricity Markets  
+Y. Guo, Y. Gong, Y. Fang, and P. P. Khargonekar  
 IEEE PES Innovative Smart Grid Technologies Conference (ISGT), Washington, DC, February 19-22, 2014.
 
-1. Optimal Power and Workload Management for Green Data Centers with Thermal Storage
-Y. Guo, Y. Gong, Y. Fang, P. P. Khargonekar, and X. Geng
+1. Optimal Power and Workload Management for Green Data Centers with Thermal Storage  
+Y. Guo, Y. Gong, Y. Fang, P. P. Khargonekar, and X. Geng  
 IEEE Global Communications Conference (GLOBECOM), Atlanta, GA, December 9-13, 2013.
 
-1. Optimal Workload and Energy Storage Management for Cloud Data Centers
-Y. Guo, Y. Fang, and P. P. Khargonekar
+1. Optimal Workload and Energy Storage Management for Cloud Data Centers  
+Y. Guo, Y. Fang, and P. P. Khargonekar  
 Military Communications Conference (MILCOM), San Diego, CA, November 18-20, 2013.
 
-1. Coordinated Energy Scheduling for Residential Households in the Smart Grid
-Y. Guo, M. Pan, Y. Fang, and P. P. Khargonekar
+1. Coordinated Energy Scheduling for Residential Households in the Smart Grid  
+Y. Guo, M. Pan, Y. Fang, and P. P. Khargonekar  
 IEEE International Conference on Smart Grid Communications (SmartGridComm), Tainan city, Taiwan, November 5-8, 2012.
 
-1. Cutting Down Electricity Cost in Internet Data Centers by Using Energy Storage
-Y. Guo, Z. Ding, Y. Fang, and D. Wu
+1. Cutting Down Electricity Cost in Internet Data Centers by Using Energy Storage  
+Y. Guo, Z. Ding, Y. Fang, and D. Wu  
 IEEE Global Communications Conference (GLOBECOM), Houston, TX, December 5-9, 2011. (Best Paper Award)
