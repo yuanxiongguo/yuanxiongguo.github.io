@@ -90,8 +90,8 @@ title: Publications
 
 **Conference Papers**
 
-1. Targeted Poisoning Attacks on Social Recommender Systems
-R. Hu, Y. Guo, M. Pan, and Y. Gong
+1. Targeted Poisoning Attacks on Social Recommender Systems  
+R. Hu, Y. Guo, M. Pan, and Y. Gong  
 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9-13 December 2019.
 
 1. Backscatter-Aided Hybrid Data Offloading for Wireless Powered Edge Sensor Networks
