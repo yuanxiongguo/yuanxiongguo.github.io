@@ -4,15 +4,19 @@
 title: Yuanxiong Guo
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Website of Yuanxiong Guo
 
 # Your name to show in the footer
-author: Some Person
+author: Yuanxiong Guo
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Bio: "bio"
+  Publications: "publications"
+  Group: 
+  Teaching: "teaching"
+  Professional Services: "services"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
