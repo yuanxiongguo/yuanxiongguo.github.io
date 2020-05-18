@@ -4,6 +4,15 @@ title: Publications
 ---
 
 **Journal Articles**
+
+1. Personalized Federated Learning with Differential Privacy   
+ R. Hu, Y. Guo, H. Li, Q. Pei, and Y. Gong     
+ to appear in IEEE Internet of Things Journal.
+
+1. Private Empirical Risk Minimization with Analytic Gaussian Mechanism for Healthcare System  
+ J. Ding, S. M. Errapotu, Y. Guo, H. Zhang, D. Yuan and M. Pan     
+ to appear in IEEE Transactions on Big Data.
+
 1. Joint Task Offloading and Resource Allocation in UAV-Enabled Mobile Edge Computing  
  Z. Yu, Y. Gong, S. Gong, and Y. Guo    
  to appear in IEEE Internet of Things Journal.
