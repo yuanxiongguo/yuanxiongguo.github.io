@@ -22,7 +22,7 @@ title: Professional Services
 * IEEE International Symposium on Wireless Vehicular Communications (WiVec) 2014
 
 **Journal Reviewer**     
-ACM Computing Surveys
+* ACM Computing Surveys
 * IEEE Transactions on Computers
 * IEEE Transactions on Big Data
 * IEEE Transactions on Cloud Computing
