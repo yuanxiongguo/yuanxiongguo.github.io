@@ -8,5 +8,9 @@ subtitle: Assistant Professor, University of Texas at San Antonio
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-## Recent News  
+### Recent News
+{: .box-note}
+* 08/19: Moved to The University of Texas at San Antonio.
+
+### Recent News  
 * 08/19: Moved to The University of Texas at San Antonio.
