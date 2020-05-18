@@ -8,7 +8,7 @@ subtitle: Assistant Professor, University of Texas at San Antonio
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-<p><img class="img-circle img-200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg"/></p>
+<p style="text-align:center;"><img class="img-circle img-200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg"/></p>
 
 
 ### Recent News  
