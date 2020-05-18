@@ -4,6 +4,10 @@ title: Yuanxiong Guo
 subtitle: Assistant Professor, University of Texas at San Antonio
 ---
 
+**About Me** I am an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. I received my Ph.D. degree in electrical and computer engineering from the University of Florida in July 2014. I received the Best Paper Award in IEEE Global Communications Conference (GLOBECOM) in 2011, the IEEE INFOCOM Distinguished TPC Member Award in 2016 and 2017, and the Visiting Faculty Research Program Award from the Air Force Research Laboratory in 2017. I am an Editor of the IEEE Transactions on Vehicular Technology and IEEE Senior Member. 
+
+My current research focuses on data analytics, security and privacy with applications to Internet of things and edge computing. 
+
 **Short Bio:** Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. He received his Ph.D. degree in electrical and computer engineering from the University of Florida in 2014. His current research focuses on data analytics, security and privacy with applications to Internet of things and edge computing. He received the 2017 Visiting Faculty Research Program Award from the Air Force Research Laboratory. He is the recipient of the Best Paper Award in IEEE Global Communications Conference (GLOBECOM) 2011 and the IEEE INFOCOM Distinguished TPC Member Award in 2016 and 2017. He is an Editor of the IEEE Transactions on Vehicular Technology and IEEE Senior Member.
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
