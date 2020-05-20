@@ -9,7 +9,7 @@ title: Bio
   <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg">
 </p>
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg#thumbnail){: .mx-auto.d-block :}
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg# thumbnail){: .mx-auto.d-block :}
 
 
 Yuanxiong Guo is an Assistant Professor in the Department of Information Systems and Cyber Security at The University of Texas at San Antonio. He received his Ph.D. degree in electrical and computer engineering from the University of Florida in 2014, M.S. degree in electrical and computer engineering from the University of Florida in 2012, and B.Eng. degree in electronics and information engineering from Huazhong University of Science and Technology in 2009.
