@@ -3,6 +3,6 @@ img[src~="thumbnail"] {
    height:100px;
 }
 
-img[src~="bordered"] {
+img[src*="#bordered"] {
    border-radius: 50%;
 }
