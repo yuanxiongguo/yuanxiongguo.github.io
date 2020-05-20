@@ -2,6 +2,8 @@
 layout: page
 title: Bio
 ---
+<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
+
 
 <p align="center">
   <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg">
