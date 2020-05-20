@@ -4,5 +4,5 @@ img[src~="thumbnail"] {
 }
 
 img[src~="bordered"] {
-   border: 1px solid black;
+   border-radius: 50%;
 }
