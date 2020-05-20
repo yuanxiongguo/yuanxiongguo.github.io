@@ -7,7 +7,7 @@ title: Bio
   <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg">
 </p>
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg#bordered){: .mx-auto.d-block :}
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg# bordered){: .mx-auto.d-block :}
 
 img[src~="bordered"] {
   border-radius: 50%;
