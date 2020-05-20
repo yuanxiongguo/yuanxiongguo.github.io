@@ -7,15 +7,6 @@ title: Bio
   <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg">
 </p>
 
-.avatar {
-  vertical-align: middle;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-}
-
-<img src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg" alt="Avatar" class="avatar">
-
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 
