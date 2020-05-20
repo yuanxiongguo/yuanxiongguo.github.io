@@ -2,7 +2,7 @@
 layout: page
 title: Bio
 ---
-<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/markdown_styles.css" />
 
 
 <p align="center">
