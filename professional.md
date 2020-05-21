@@ -31,6 +31,7 @@ title: Professional Activities
 
 **Journal Reviewer**     
 * ACM Computing Surveys
+* ACM Transactions on Cyber-Physical Systems
 * IEEE Transactions on Computers
 * IEEE Transactions on Big Data
 * IEEE Transactions on Cloud Computing
@@ -50,3 +51,4 @@ title: Professional Activities
 * IEEE Wireless Communications
 * IEEE Communications
 * Computer Networks
+
