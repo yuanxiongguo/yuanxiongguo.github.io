@@ -6,8 +6,9 @@ title: Bio
 
 
 <p align="center">
-  <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg">
+  <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg#bordered">
 </p>
+
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg#bordered){: .mx-auto.d-block :}
 
