@@ -2,7 +2,7 @@
 layout: page
 title: Professional Activities
 ---
-**Professional Society Membership**
+**Professional Affiliations**
 * IEEE Senior Member (since 2019)
 * ACM Member (since 2014)
 
