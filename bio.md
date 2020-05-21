@@ -6,7 +6,7 @@ title: Bio
 
 
 <p align="center">
-  <img height="200" src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg#bordered">
+  <img src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg#bordered">
 </p>
 
 
