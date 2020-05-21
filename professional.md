@@ -2,6 +2,9 @@
 layout: page
 title: Professional Activities
 ---
+**Professional Membership**
+* IEEE Senior Member (since 2019)
+* ACM Member (since 2014)
 
 **Journal Editorship**  
 * Editor, IEEE Transactions on Vehicular Technology, Jan. 2018 - present  
