@@ -7,7 +7,7 @@ title: Professional Activities
 * ACM Member (since 2014)
 
 **Grant Proposal Reviewer**
-* Panelist, NSF CISE, 2017 - 2018, 2020
+* Panelist, NSF CISE, 2017 - 2020
 * External Reviewer, Hong Kong Research Grants Council, 2017 - 2020
 * Reviewer, Kentucky Science & Engineering Foundation, 2016
 
