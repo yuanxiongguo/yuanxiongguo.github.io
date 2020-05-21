@@ -2,9 +2,14 @@
 layout: page
 title: Professional Activities
 ---
-**Professional Membership**
+**Professional Society Membership**
 * IEEE Senior Member (since 2019)
 * ACM Member (since 2014)
+
+**Grant Proposal Reviewer**
+* Panelist, NSF CISE, 2017 - 2018, 2020
+* External Reviewer, Hong Kong Research Grants Council, 2017 - 2020
+* Reviewer, Kentucky Science & Engineering Foundation, 2016
 
 **Journal Editorship**  
 * Editor, IEEE Transactions on Vehicular Technology, Jan. 2018 - present  
