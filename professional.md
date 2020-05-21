@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Services
+title: Professional Activities
 ---
 
 **Journal Editorship**  
