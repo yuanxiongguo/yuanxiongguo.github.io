@@ -9,4 +9,5 @@ subtitle: Assistant Professor, University of Texas at San Antonio
 My current research focuses on big data analytics, distributed machine learning, security and privacy with applications to Internet of things and edge computing. 
 
 ### Recent News  
+* 05/20: Received a NSF RAPID grant on COVID-19 
 * 08/19: Moved to The University of Texas at San Antonio.
