@@ -15,6 +15,7 @@ subtitle: Assistant Professor, University of Texas at San Antonio
 My current research focuses on big data analytics, distributed machine learning, security and privacy with applications to Internet of things and edge computing. 
 
 ### Recent News  
+* 06/20: Received an Internal Research Award from UTSA. 
 * 06/20: Received Dean’s Distinguished Research Award at UTSA. 
 * 05/20: Received a NSF RAPID grant on COVID-19 research. 
 * 08/19: Moved to The University of Texas at San Antonio.
