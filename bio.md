@@ -5,9 +5,9 @@ title: Bio
 <link rel="stylesheet" type="text/css" media="all" href="/markdown_styles.css" />
 
 
-<p align="center">
-  <img src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg#bordered">
-</p>
+#<p align="center">
+#  <img src="https://guoyuanxiong.github.io/images/yuanxiong_new.jpg#bordered">
+#</p>
 
 <!-- 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg#bordered){: .mx-auto.d-block :}
